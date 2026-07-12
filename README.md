@@ -42,6 +42,7 @@ python3 zone_transfer_check.py -f domains.txt
 ```
 # Example running zone_transfer_check.py
 
+```bash
 python3 zone_transfer_check.py -d zonetransfer.me
 
 ╔══════════════════════════════════════════════════════════════╗
@@ -116,5 +117,6 @@ Testing Zone Transfers: 100%|█████████████████
 [+] JSON saved: output/zone_transfer_20260712_145615.json
 [+] Zone files saved in: output/zone_files_20260712_145615
 [+] Scan complete!
+```
 
 
