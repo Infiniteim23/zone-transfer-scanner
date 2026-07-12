@@ -40,7 +40,7 @@ python3 zone_transfer_check.py -d lab.local -n 127.0.0.1 -p 5353
 # Scan multiple domains from file
 python3 zone_transfer_check.py -f domains.txt
 ```
-## Example running zone_transfer_check.py
+### Example running zone_transfer_check.py
 
 ```bash
 python3 zone_transfer_check.py -d zonetransfer.me
