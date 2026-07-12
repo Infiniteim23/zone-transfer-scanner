@@ -29,7 +29,8 @@ Zone Transfer Scanner detects DNS zone transfer (AXFR) vulnerabilities.
 ```bash
 git clone https://github.com/YOUR_USERNAME/zone-transfer-scanner.git
 cd zone-transfer-scanner
-pip3 install -r requirements.txt --break-system-packages 
+pip3 install -r requirements.txt --break-system-packages
+````
 
 ## 🚀 Usage
 
