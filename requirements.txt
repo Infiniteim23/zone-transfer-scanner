@@ -1,0 +1,4 @@
+aiodns>=3.0.0
+dnspython>=2.3.0
+colorama>=0.4.6
+tqdm>=4.65.0

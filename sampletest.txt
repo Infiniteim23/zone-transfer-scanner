@@ -1,0 +1,5 @@
+
+#Example domains file
+google.com
+zonetransfer.me
+lab.local
