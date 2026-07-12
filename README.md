@@ -8,7 +8,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Infiniteim23/zone-transfer-scanner.svg)](https://github.com/Infiniteim23/zone-transfer-scanner/issues)
 
 <p align="center">
-  <img src="assets/ztc.gif" alt="Zone Transfer Scanner Demo">
+  <img src="assets/ztc.png" alt="Zone Transfer Scanner Demo">
 </p>
 
 > ⚠️ **Disclaimer**: This tool is for educational and authorized testing only.
